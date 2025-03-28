@@ -22,5 +22,5 @@ git add .
 git commit -m "Initial commit"
 
 REM 推送到 GitHub（第一次推送时可能需要输入 GitHub 账号和密码，建议配置 Git Credential Manager 或使用 SSH）
-git push -u origin master
+git push -u origin main
 pause
